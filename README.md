@@ -1,1 +1,1 @@
-# python-tries
+# Repository for python training
